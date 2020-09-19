@@ -11,7 +11,7 @@ namespace POMFramework
 
         [Test]
         [Description("Login Test")]
-        [Author("Kevin Tuck")]
+        [Author("karthik raja")]
 
         public void Valid_Login()
         {
@@ -25,7 +25,7 @@ namespace POMFramework
 
         [Test]
         [Description("Checkout test")]
-        [Author("Kevin Tuck")]
+        [Author("karthik raja")]
 
         public void Buy_Most_Expensive_Item()
         {
@@ -42,7 +42,7 @@ namespace POMFramework
 
         [Test]
         [Description("Validate all items can be added to the cart")]
-        [Author("Kevin Tuck")]
+        [Author("karthik raja")]
 
         public void Add_All_Items_To_Cart()
         {
