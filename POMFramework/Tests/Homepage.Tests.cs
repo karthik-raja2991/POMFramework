@@ -18,6 +18,7 @@ namespace POMFramework
             Pages.Home.GoTo();
             Pages.Home.Login();
             Pages.Inventory.LogOut();
+            Pages.Inventory.LogOut();
 
             Assert.IsTrue(Pages.Home.Map.LoginButton.Displayed);
 
